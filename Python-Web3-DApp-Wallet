@@ -1,0 +1,14 @@
+python-web3-dapp-wallet/
+│
+├── contracts/
+│   └── Wallet.sol            # Kontrak smart contract Solidity
+│
+├── src/
+│   ├── app.py                # Kode Python untuk logika aplikasi
+│   └── templates/            # Direktori untuk file template HTML
+│       └── index.html        # Tampilan UI aplikasi
+│
+├── node_modules/             # Direktori untuk modul Node.js yang diinstal
+│
+├── requirements.txt          # Daftar dependensi Python
+└── README.md                 # Dokumentasi proyek
